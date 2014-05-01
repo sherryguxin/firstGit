@@ -4,8 +4,7 @@ public class TestGit {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("guxi11n!1!!!!12");
+		System.out.println("guxi11n!1!!!!1201");
 		
 	}
-
 }
